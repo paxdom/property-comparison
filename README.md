@@ -1,8 +1,3 @@
-Here is a **clean, production-ready `README.md`** for **App 2: Property Comparison**, written in the **same philosophy, tone, and structure** as your reference — but correctly aligned to the comparison use-case.
-
-You can copy-paste this directly.
-
----
 
 ````md
 # 🏠 Property Comparison by PaXdom Realty  
