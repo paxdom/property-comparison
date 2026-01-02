@@ -16,7 +16,7 @@ st.set_page_config(
 st.markdown(
     """
     <div style="text-align:center; margin-bottom:16px;">
-        <h1 style="margin-bottom:6px;">🏠 Property Comparison</h1>
+        <h2 style="margin-bottom:6px;">🏠 PaXdom Property Comparison</h2>
         <p style="color:#555; font-size:15px;">
             Objective comparison of property listings. No rankings. No recommendations.
         </p>
